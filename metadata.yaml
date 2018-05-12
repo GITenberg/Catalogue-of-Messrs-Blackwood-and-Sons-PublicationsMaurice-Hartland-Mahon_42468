@@ -1,0 +1,29 @@
+_repo: Catalogue-of-Messrs-Blackwood-and-Sons-PublicationsMaurice-Hartland-Mahon_42468
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: William Blackwood and Sons
+    aliases:
+    - William Blackwood & Sons
+    - Blackwood and Sons
+    gutenberg_agent_id: '46620'
+    url: http://www.gutenberg.org/2009/agents/46620
+description: ''
+gutenberg_issued: '2013-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Publishers'' catalogs'
+- !lcsh 'William Blackwood and Sons -- Catalogs'
+- !lcc 'Z'
+title: "Catalogue of Messrs Blackwood and Sons' Publications\r\nPublished in 1868\
+  \ as a Part of The Handy Horse-Book by Maurice Hartland Mahon"
+url: http://www.gutenberg.org/ebooks/42468
